@@ -1,2 +1,3 @@
-# data-warehouse-snowflake-for-data-engineering
-data-warehouse-snowflake-for-data-engineering
+# Real-Time Data Streaming with Apache NiFi, AWS, Snowpipe, and Snowflake
+
+Built a complete real-time data engineering pipeline integrating Apache NiFi, AWS cloud services, Snowpipe, and Snowflake’s advanced warehousing capabilities. Designed ingestion flows using Apache NiFi to capture and route streaming data, orchestrated storage and staging layers through AWS S3, and automated continuous data loading into Snowflake using Snowpipe. Implemented comprehensive SQL workflows—including table creation, staged copying, dynamic data masking, SCD Type-1 and Type-2 transformations, clustering, performance optimization, file formats, and materialized views—to support high-quality analytics and scalable warehouse operations. Demonstrated advanced Snowflake engineering concepts such as zero-copy cloning, time travel, secure data sharing, and storage integration, delivering a production-ready streaming analytics platform.
